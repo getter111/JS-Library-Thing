@@ -1,4 +1,6 @@
-## Library App where you can add, remove, and update books.
+# Library App
+
+* where you can add, remove, and update books.  
 
 * Live Demo: https://getter111.github.io/JS-Library-Thing/  
 
